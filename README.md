@@ -1,0 +1,2 @@
+# LoRE
+prepare-for-journal
